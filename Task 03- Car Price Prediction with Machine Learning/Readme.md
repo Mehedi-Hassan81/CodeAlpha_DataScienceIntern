@@ -1,10 +1,10 @@
 ### Car Price Prediction
 
 ## Overview
-This task, part of a CodeAlpha internship, predicts car selling prices using the car_data.csv dataset. The goal was to preprocess data, engineer features, train a regression model, and evaluate performance.
+This task, part of a CodeAlpha internship, predicts car selling prices using the carData.csv dataset. The goal was to preprocess data, engineer features, train a regression model, and evaluate performance.
 Dataset
 
-File: car_data.csv
+File: carData.csv
 Columns: Car_Name, Year, Selling_Price, Present_Price, Driven_kms, Fuel_Type, Selling_type, Transmission, Owner
 Size: 301 rows
 Features: Year, Present_Price, Driven_kms, Fuel_Type, Selling_type, Transmission, Owner, Car_Name (brand extracted)
